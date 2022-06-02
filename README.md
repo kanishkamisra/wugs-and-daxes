@@ -11,7 +11,7 @@ This is a growing resource, and we hope to start organizing it in a meaningful w
 
 ## Papers
 
-***NOTE:*** *We currently have a list of various papers -- we will organize them properly (into various categories or chronologically, perhaps) once we reach sufficient mass.
+***NOTE:*** *We currently have a bunch of different papers -- we will organize them properly (into various categories or chronologically, perhaps) once we reach sufficient mass.*
 
 ### Papers that exclusively focus on how novel words can be/are intregrated and used by computational models
 
