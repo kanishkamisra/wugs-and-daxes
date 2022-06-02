@@ -5,9 +5,13 @@ Maintainers: [Kanishka Misra](https://github.com/kanishkamisra) and [Najoung Kim
 
 ## Background
 
+The integration and acquisition of words (and their representations) that a model/agent has never seen has been a challenge in natural language processing and cognitive science. Novel words have even offered a way to add experimental controls in model evaluation. Here, we attempt to gather academic publications and preprints that aim to diagnose, evaluate, or include novel words and their integration within their methods and analyses. We hope that this list helps folks like us who are interested in this topic!
+
+This is a growing resource, and we hope to start organizing it in a meaningful way soon. Suggestions and contributions are welcome (through PRs)!
+
 ## Papers
 
-***NOTE:*** *Currently we have a list of different papers -- we will organize them (into various categories or chronologically, perhaps) once we reach sufficient mass!
+***NOTE:*** *We currently have a list of various papers -- we will organize them properly (into various categories or chronologically, perhaps) once we reach sufficient mass.
 
 ### Papers that exclusively focus on how novel words can be/are intregrated and used by computational models
 
@@ -17,9 +21,9 @@ Maintainers: [Kanishka Misra](https://github.com/kanishkamisra) and [Najoung Kim
 4. [A Computational Cognitive Model of Novel Word Generalization](https://aclanthology.org/D15-1207) Aida Nematzadeh, Erin Grant, Suzanne Stevenson. 2015. _EMNLP 2015_
 5. [NYTWIT: A Dataset of Novel Words in the New York Times](https://aclanthology.org/2020.coling-main.572) Yuval Pinter, Cassandra L. Jacobs, Max Bittker. 2020. _COLING 2020_.
 6. [This is a BERT. Now there are several of them. Can they generalize to novel words?](https://aclanthology.org/2020.blackboxnlp-1.31) Coleman Haley. 2020. _BlackboxNLP 2020_.
-7. [Investigating Novel Verb Learning in BERT: Selectional Preference Classes and Alternation-Based Syntactic Generalization](https://aclanthology.org/2020.blackboxnlp-1.25) Tristan Thrush, Ethan Wilcox, Roger Levy. 2020. _BlackboxNLP 2020_
+7. [Investigating Novel Verb Learning in BERT: Selectional Preference Classes and Alternation-Based Syntactic Generalization](https://aclanthology.org/2020.blackboxnlp-1.25) Tristan Thrush, Ethan Wilcox, and Roger Levy. 2020. _BlackboxNLP 2020_
 8. [Learning semantic representations for novel words: Leveraging both form and context](https://arxiv.org/abs/1811.03866) Timo Schick and Hinrich Schütze. 2019. _AAAI 2019_.
-9. [A La Carte Embedding: Cheap but Effective Induction of Semantic Feature Vectors](https://aclanthology.org/P18-1002) Mikhail Khodak, Nikunj Saunshi, Yingyu Liang, Tengyu Ma, Brandon Stewart, Sanjeev Arora. 2018. _ACL 2018_.
+9. [A La Carte Embedding: Cheap but Effective Induction of Semantic Feature Vectors](https://aclanthology.org/P18-1002) Mikhail Khodak, Nikunj Saunshi, Yingyu Liang, Tengyu Ma, Brandon Stewart, and Sanjeev Arora. 2018. _ACL 2018_.
 10. [One-shot and few-shot learning of word embeddings](https://arxiv.org/abs/1710.10280). Andrew Lampinen and James McClelland. 2018. _Preprint_
 
 
@@ -30,8 +34,8 @@ Maintainers: [Kanishka Misra](https://github.com/kanishkamisra) and [Najoung Kim
 1. [Generalization without systematicity: On the compositional skills of sequence-to-sequence recurrent networks](http://proceedings.mlr.press/v80/lake18a/lake18a.pdf) Brenden Lake and Marco Baroni. 2018. _ICML 2018_.
 2. [COGS: A Compositional Generalization Challenge Based on Semantic Interpretation](https://aclanthology.org/2020.emnlp-main.731) Najoung Kim and Tal Linzen. 2020. *EMNLP 2020*.
 
-### Probing/Diagnostic Classification
-1. [Do Syntactic Probes Probe Syntax? Experiments with Jabberwocky Probing](https://aclanthology.org/2021.naacl-main.11) Rowan Hall Maudslay, Ryan Cotterell. 2021. _NAACL 2021_
+### Syntax Probing/Acquisition
+1. [Do Syntactic Probes Probe Syntax? Experiments with Jabberwocky Probing](https://aclanthology.org/2021.naacl-main.11) Rowan Hall Maudslay and Ryan Cotterell. 2021. _NAACL 2021_
 
 ### Mutual Exclusivity
 1. [Mutual exclusivity as a challenge for deep neural networks](https://proceedings.neurips.cc/paper/2020/file/a378383b89e6719e15cd1aa45478627c-Paper.pdf) Kanishk Gandhi and Brenden Lake. 2020. _NeurIPS 2020_
