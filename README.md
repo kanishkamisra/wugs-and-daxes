@@ -43,4 +43,4 @@ This is a growing resource, and we hope to start organizing it in a meaningful w
 ### Category-based or Property Induction
 1. [A Property Induction Framework for Neural Language Models](https://arxiv.org/abs/2205.06910) Kanishka Misra, Julia Taylor Rayz, and Allyson Ettinger. 2022. *CogSci 2022*.
 2. [Do language models learn typicality judgments from text?](https://escholarship.org/uc/item/9n77r9mr#main) Kanishka Misra, Allyson Ettinger, and Julia Taylor Rayz. 2021. *CogSci 2021*.
-3. [Inductive reasoning about chimeric creatures](https://proceedings.neurips.cc/paper/2011/file/705f2172834666788607efbfca35afb3-Paper.pdf) Charles Kemp. 2011. _NeurIPS 2021_.
+3. [Inductive reasoning about chimeric creatures](https://proceedings.neurips.cc/paper/2011/file/705f2172834666788607efbfca35afb3-Paper.pdf) Charles Kemp. 2011. _NeurIPS 2011_.
