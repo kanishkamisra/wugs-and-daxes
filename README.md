@@ -15,24 +15,24 @@ This is a growing resource, and we hope to start organizing it in a meaningful w
 
 ### Papers that exclusively focus on how novel words can be/are intregrated and used by computational models
 
-1. [High-risk learning: acquiring new word vectors from tiny data](https://aclanthology.org/D17-1030) Aurelie Herbelot and Marco Baroni. 2017. *EMNLP 2017*
-2. [Multimodal word meaning induction from minimal exposure to natural text](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12481) Angeliki Lazaridou, Marco Marelli, Marco Baroni. 2017. *Cognitive Science*
-3. [Testing for Grammatical Category Abstraction in Neural Language Models](https://aclanthology.org/2021.scil-1.59) Najoung Kim and Paul Smolensky. 2021. *SCiL 2021*
-4. [A Computational Cognitive Model of Novel Word Generalization](https://aclanthology.org/D15-1207) Aida Nematzadeh, Erin Grant, Suzanne Stevenson. 2015. _EMNLP 2015_
-5. [NYTWIT: A Dataset of Novel Words in the New York Times](https://aclanthology.org/2020.coling-main.572) Yuval Pinter, Cassandra L. Jacobs, Max Bittker. 2020. _COLING 2020_.
-6. [This is a BERT. Now there are several of them. Can they generalize to novel words?](https://aclanthology.org/2020.blackboxnlp-1.31) Coleman Haley. 2020. _BlackboxNLP 2020_.
-7. [Investigating Novel Verb Learning in BERT: Selectional Preference Classes and Alternation-Based Syntactic Generalization](https://aclanthology.org/2020.blackboxnlp-1.25) Tristan Thrush, Ethan Wilcox, and Roger Levy. 2020. _BlackboxNLP 2020_
-8. [Learning semantic representations for novel words: Leveraging both form and context](https://arxiv.org/abs/1811.03866) Timo Schick and Hinrich Schütze. 2019. _AAAI 2019_.
-9. [A La Carte Embedding: Cheap but Effective Induction of Semantic Feature Vectors](https://aclanthology.org/P18-1002) Mikhail Khodak, Nikunj Saunshi, Yingyu Liang, Tengyu Ma, Brandon Stewart, and Sanjeev Arora. 2018. _ACL 2018_.
-10. [One-shot and few-shot learning of word embeddings](https://arxiv.org/abs/1710.10280). Andrew Lampinen and James McClelland. 2018. _Preprint_
+1. [Testing for Grammatical Category Abstraction in Neural Language Models](https://aclanthology.org/2021.scil-1.59) Najoung Kim and Paul Smolensky. 2021. *SCiL 2021*
+2. [This is a BERT. Now there are several of them. Can they generalize to novel words?](https://aclanthology.org/2020.blackboxnlp-1.31) Coleman Haley. 2020. _BlackboxNLP 2020_.
+3. [NYTWIT: A Dataset of Novel Words in the New York Times](https://aclanthology.org/2020.coling-main.572) Yuval Pinter, Cassandra L. Jacobs, Max Bittker. 2020. _COLING 2020_.
+4. [Investigating Novel Verb Learning in BERT: Selectional Preference Classes and Alternation-Based Syntactic Generalization](https://aclanthology.org/2020.blackboxnlp-1.25) Tristan Thrush, Ethan Wilcox, and Roger Levy. 2020. _BlackboxNLP 2020_
+5. [Learning semantic representations for novel words: Leveraging both form and context](https://arxiv.org/abs/1811.03866) Timo Schick and Hinrich Schütze. 2019. _AAAI 2019_.
+6. [A La Carte Embedding: Cheap but Effective Induction of Semantic Feature Vectors](https://aclanthology.org/P18-1002) Mikhail Khodak, Nikunj Saunshi, Yingyu Liang, Tengyu Ma, Brandon Stewart, and Sanjeev Arora. 2018. _ACL 2018_.
+7. [One-shot and few-shot learning of word embeddings](https://arxiv.org/abs/1710.10280). Andrew Lampinen and James McClelland. 2018. _Preprint_
+8. [High-risk learning: acquiring new word vectors from tiny data](https://aclanthology.org/D17-1030) Aurelie Herbelot and Marco Baroni. 2017. *EMNLP 2017*
+9. [Multimodal word meaning induction from minimal exposure to natural text](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12481) Angeliki Lazaridou, Marco Marelli, Marco Baroni. 2017. *Cognitive Science*
+10. [A Computational Cognitive Model of Novel Word Generalization](https://aclanthology.org/D15-1207) Aida Nematzadeh, Erin Grant, Suzanne Stevenson. 2015. _EMNLP 2015_
 
 
 ### Papers that involve the use of novel words/words in specific scenarios
 
 ### Compositional Generalization
 
-1. [Generalization without systematicity: On the compositional skills of sequence-to-sequence recurrent networks](http://proceedings.mlr.press/v80/lake18a/lake18a.pdf) Brenden Lake and Marco Baroni. 2018. _ICML 2018_.
-2. [COGS: A Compositional Generalization Challenge Based on Semantic Interpretation](https://aclanthology.org/2020.emnlp-main.731) Najoung Kim and Tal Linzen. 2020. *EMNLP 2020*.
+1. [COGS: A Compositional Generalization Challenge Based on Semantic Interpretation](https://aclanthology.org/2020.emnlp-main.731) Najoung Kim and Tal Linzen. 2020. *EMNLP 2020*.
+2. [Generalization without systematicity: On the compositional skills of sequence-to-sequence recurrent networks](http://proceedings.mlr.press/v80/lake18a/lake18a.pdf) Brenden Lake and Marco Baroni. 2018. _ICML 2018_.
 
 ### Syntax Probing/Acquisition
 1. [Do Syntactic Probes Probe Syntax? Experiments with Jabberwocky Probing](https://aclanthology.org/2021.naacl-main.11) Rowan Hall Maudslay and Ryan Cotterell. 2021. _NAACL 2021_
