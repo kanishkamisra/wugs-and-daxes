@@ -5,7 +5,7 @@ Maintainers: [Kanishka Misra](https://github.com/kanishkamisra) and [Najoung Kim
 
 ## Background
 
-The integration and acquisition of words (and their representations) that a model/agent has never seen has been a challenge in natural language processing and cognitive science. Novel words have even offered a way to add experimental controls in model evaluation. Here, we attempt to gather academic publications and preprints that aim to diagnose, evaluate, or include novel words and their integration within their methods and analyses. We hope that this list helps folks like us who are interested in this topic!
+The integration and acquisition of words (and their representations) that a model/agent has never seen has been a challenge in natural language processing and cognitive science. In many cases, novel words have even offered a way to add experimental controls in model evaluation. Here, we attempt to gather academic publications and preprints that aim to diagnose, evaluate, or include novel words and their integration within their methods and analyses. We hope that this list helps folks like us who are interested in this topic!
 
 This is a growing resource, and we hope to start organizing it in a meaningful way soon. Suggestions and contributions are welcome (through PRs)!
 
