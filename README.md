@@ -5,4 +5,4 @@ Maintainers: [Kanishka Misra](github.com/kanishkamisra) and [Najoung Kim](github
 
 ## Background
 
-## Table of Contents
+## Contents
