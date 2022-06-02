@@ -45,5 +45,6 @@ This is a growing resource, and we hope to start organizing it in a meaningful w
 2. [Do language models learn typicality judgments from text?](https://escholarship.org/uc/item/9n77r9mr#main) Kanishka Misra, Allyson Ettinger, and Julia Taylor Rayz. 2021. *CogSci 2021*.
 3. [Inductive reasoning about chimeric creatures](https://proceedings.neurips.cc/paper/2011/file/705f2172834666788607efbfca35afb3-Paper.pdf) Charles Kemp. 2011. _NeurIPS 2011_.
 
+
 ### Others (to be organized)
 1. [When More Data Hurts: A Troubling Quirk in Developing Broad-Coverage Natural Language Understanding Systems](https://arxiv.org/abs/2205.12228) Elias Stengel-Eskin, Emmanouil Antonios Platanios, Adam Pauls, Sam Thomson, Hao Fang, Benjamin Van Durme, Jason Eisner, and Yu Su. 2022. _arXiv_.
