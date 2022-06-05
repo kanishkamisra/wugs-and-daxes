@@ -37,6 +37,9 @@ This is a growing resource, and we hope to start organizing it in a meaningful w
 ### Syntax Probing/Acquisition
 1. [Do Syntactic Probes Probe Syntax? Experiments with Jabberwocky Probing](https://aclanthology.org/2021.naacl-main.11) Rowan Hall Maudslay and Ryan Cotterell. 2021. _NAACL 2021_.
 
+### Parsing
+1. [Jabberwocky Parsing: Dependency Parsing with Lexical Noise](https://scholarworks.umass.edu/scil/vol2/iss1/13/) Jungo Kasai and Robert Frank. 2019. _SCiL 2019_.
+
 ### Mutual Exclusivity
 1. [Mutual exclusivity as a challenge for deep neural networks](https://proceedings.neurips.cc/paper/2020/file/a378383b89e6719e15cd1aa45478627c-Paper.pdf) Kanishk Gandhi and Brenden Lake. 2020. _NeurIPS 2020_.
 
@@ -50,3 +53,4 @@ This is a growing resource, and we hope to start organizing it in a meaningful w
 1. [When More Data Hurts: A Troubling Quirk in Developing Broad-Coverage Natural Language Understanding Systems](https://arxiv.org/abs/2205.12228) Elias Stengel-Eskin, Emmanouil Antonios Platanios, Adam Pauls, Sam Thomson, Hao Fang, Benjamin Van Durme, Jason Eisner, and Yu Su. 2022. _arXiv_.
 2. [The driving forces of polarity-sensitivity: Experiments with multilingual pre-trained neural language models](https://lingbuzz.net/lingbuzz/006641) Lisa Bylinina and Alexey Tikhonov. 2022. _CogSci 2022_.
 3. [Old BERT, New Tricks: Artificial Language Learning for Pre-Trained Language Models](https://arxiv.org/abs/2109.06333). Lisa Bylinina, Alexey Tikhonov, and Ekaterina Garmash. 2021. _arXiv_.
+4. [Do Language Models Learn Position-Role Mappings?](https://arxiv.org/abs/2202.03611) Jackson Petty, Michael Wilson, and Robert Frank. 2022. _BUCLD 46_.
