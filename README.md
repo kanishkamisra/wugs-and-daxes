@@ -54,3 +54,4 @@ This is a growing resource, and we hope to start organizing it in a meaningful w
 2. [The driving forces of polarity-sensitivity: Experiments with multilingual pre-trained neural language models](https://lingbuzz.net/lingbuzz/006641) Lisa Bylinina and Alexey Tikhonov. 2022. _CogSci 2022_.
 3. [Old BERT, New Tricks: Artificial Language Learning for Pre-Trained Language Models](https://arxiv.org/abs/2109.06333). Lisa Bylinina, Alexey Tikhonov, and Ekaterina Garmash. 2021. _arXiv_.
 4. [Do Language Models Learn Position-Role Mappings?](https://arxiv.org/abs/2202.03611) Jackson Petty, Michael Wilson, and Robert Frank. 2022. _BUCLD 46_.
+5. [Deep daxes: Mutual exclusivity arises through both learning biases and pragmatic strategies in neural networks](https://arxiv.org/abs/2004.03902) Kristina Gulordava, Thomas Brochhagen, and Gemma Boleda. 2021. _CogSci 2020_.
