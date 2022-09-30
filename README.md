@@ -25,6 +25,7 @@ This is a growing resource, and we hope to start organizing it in a meaningful w
 8. [High-risk learning: acquiring new word vectors from tiny data](https://aclanthology.org/D17-1030) Aurelie Herbelot and Marco Baroni. 2017. *EMNLP 2017*.
 9. [Multimodal word meaning induction from minimal exposure to natural text](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12481) Angeliki Lazaridou, Marco Marelli, Marco Baroni. 2017. *Cognitive Science*.
 10. [A Computational Cognitive Model of Novel Word Generalization](https://aclanthology.org/D15-1207) Aida Nematzadeh, Erin Grant, Suzanne Stevenson. 2015. _EMNLP 2015_.
+11. [WinoDict: Probing language models for in-context word acquisition](http://arxiv.org/abs/2209.12153) Julian Martin Eisenschlos, Jeremy R. Cole, Fangyu Liu, William W. Cohen. 2022 _arXiv_.
 
 
 ### Papers that involve the use of novel words/words in specific scenarios
