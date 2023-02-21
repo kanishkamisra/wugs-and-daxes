@@ -34,6 +34,7 @@ This is a growing resource, and we hope to start organizing it in a meaningful w
 
 1. [COGS: A Compositional Generalization Challenge Based on Semantic Interpretation](https://aclanthology.org/2020.emnlp-main.731) Najoung Kim and Tal Linzen. 2020. *EMNLP 2020*.
 2. [Generalization without systematicity: On the compositional skills of sequence-to-sequence recurrent networks](http://proceedings.mlr.press/v80/lake18a/lake18a.pdf) Brenden Lake and Marco Baroni. 2018. _ICML 2018_.
+3. [Uncontrolled Lexical Exposure Leads to Overestimation of Compositional Generalization in Pretrained Models](https://najoungkim.github.io/assets/files/Kim_Linzen_Smolensky_uncontrolled_lexical_exposure.pdf) Najoung Kim, Tal Linzen, and Paul Smolensky. 2022.
 
 ### Syntax Probing/Acquisition
 1. [Do Syntactic Probes Probe Syntax? Experiments with Jabberwocky Probing](https://aclanthology.org/2021.naacl-main.11) Rowan Hall Maudslay and Ryan Cotterell. 2021. _NAACL 2021_.
