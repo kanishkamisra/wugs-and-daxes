@@ -26,6 +26,7 @@ This is a growing resource, and we hope to start organizing it in a meaningful w
 9. [Multimodal word meaning induction from minimal exposure to natural text](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12481) Angeliki Lazaridou, Marco Marelli, Marco Baroni. 2017. *Cognitive Science*.
 10. [A Computational Cognitive Model of Novel Word Generalization](https://aclanthology.org/D15-1207) Aida Nematzadeh, Erin Grant, Suzanne Stevenson. 2015. _EMNLP 2015_.
 11. [WinoDict: Probing language models for in-context word acquisition](http://arxiv.org/abs/2209.12153) Julian Martin Eisenschlos, Jeremy R. Cole, Fangyu Liu, William W. Cohen. 2022 _arXiv_.
+12. [COMPS: Conceptual Minimal Pair Sentences for testing Robust Property Knowledge and its Inheritance in Pre-trained Language Models](https://arxiv.org/abs/2210.01963) Kanishka Misra, Julia Taylor Rayz, Allyson Ettinger. 2023. _EACL 2023_.
 
 
 ### Papers that involve the use of novel words/words in specific scenarios
@@ -57,5 +58,4 @@ This is a growing resource, and we hope to start organizing it in a meaningful w
 3. [Old BERT, New Tricks: Artificial Language Learning for Pre-Trained Language Models](https://arxiv.org/abs/2109.06333). Lisa Bylinina, Alexey Tikhonov, and Ekaterina Garmash. 2021. _arXiv_.
 4. [Do Language Models Learn Position-Role Mappings?](https://arxiv.org/abs/2202.03611) Jackson Petty, Michael Wilson, and Robert Frank. 2022. _BUCLD 46_.
 5. [Deep daxes: Mutual exclusivity arises through both learning biases and pragmatic strategies in neural networks](https://arxiv.org/abs/2004.03902) Kristina Gulordava, Thomas Brochhagen, and Gemma Boleda. 2020. _CogSci 2020_.
-6. [COMPS: Conceptual Minimal Pair Sentences for testing Robust Property Knowledge and its Inheritance in Pre-trained Language Models](https://arxiv.org/abs/2210.01963) Kanishka Misra, Julia Taylor Rayz, Allyson Ettinger. 2023. _EACL 2023_.
-7. [Towards Understanding How Machines Can Learn Causal Overhypotheses](https://arxiv.org/abs/2206.08353) Eliza Kosoy, David M. Chan, Adrian Liu, Jasmine Collins, Bryanna Kaufmann, Sandy Han Huang, Jessica B. Hamrick, John Canny, Nan Rosemary Ke, Alison Gopnik. _CogSci 2023_ (forthcoming).
+6. [Towards Understanding How Machines Can Learn Causal Overhypotheses](https://arxiv.org/abs/2206.08353) Eliza Kosoy, David M. Chan, Adrian Liu, Jasmine Collins, Bryanna Kaufmann, Sandy Han Huang, Jessica B. Hamrick, John Canny, Nan Rosemary Ke, Alison Gopnik. _CogSci 2023_ (forthcoming).
